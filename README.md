@@ -1,3 +1,3 @@
 # Information-Retrieval-Project
-MSSV: 18520882
+MSSV: 18520882  
 Ho va ten: Duong Le Tuong Khang
