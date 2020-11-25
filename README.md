@@ -1,3 +1,5 @@
 # Information-Retrieval-Project
-MSSV: 18520882  
-Ho va ten: Duong Le Tuong Khang
+Nhóm thực hiện: 
+Dương Lê Tường Khang 18520882  
+Bùi Đào Gia Huy 18520818  
+Lã Trường Hải 18520698
